@@ -12,7 +12,7 @@ The original research and code are accessible here:
 This repository is structured to include all necessary components for running and understanding the TP-Transformer model:
 - **Jupyter Notebook**: A comprehensive notebook that demonstrates the implementation and usage of the TP-Transformer.
 - **Source Python Files**: All the source code files are included for detailed examination and further development.
-- **Project Report**: A detailed report of our reimplementation and validation study is available here: [Project Report](./Path/To/Report.pdf) 
+- **Project Report**: A detailed report of our reimplementation and validation study is available here: [Project Report](https://github.com/pabfr99/Tensor-Product-Transformers-For-Question-Answering/blob/main/QA_Report.pdf) 
 
 ## Implementation Overview
 - **Dataset**: The implementation uses the Mathematics Dataset, covering a range of mathematical topics and difficulties.
