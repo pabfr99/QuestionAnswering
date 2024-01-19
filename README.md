@@ -29,5 +29,12 @@ To run this project:
 ## Conclusion
 This repository serves as a practical implementation and validation of the TP-Transformer model, demonstrating its application in natural language processing for mathematical problem-solving.
 
-## References
-1. Schlag, I., Smolensky, P., Fernandez, R., Jojic, N., Schmidhuber, J., & Gao, J. (2019). Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving. arXiv preprint arXiv:1910.06611.
+## Citation
+```
+@article{schlag2019enhancing,
+  title={Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving},
+  author={Schlag, Imanol and Smolensky, Paul and Fernandez, Roland and Jojic, Nebojsa and Schmidhuber, J{\"u}rgen and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:1910.06611},
+  year={2019}
+}
+```
